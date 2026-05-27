@@ -1,22 +1,21 @@
-# Deep Learning
+# TensorFlow Projects
 
 ## Overview
-This repository contains projects and implementations related to Deep Learning using Python and neural network architectures. The project focuses on building, training, and evaluating deep learning models for various artificial intelligence tasks.
+This repository contains projects and implementations built using TensorFlow for machine learning and deep learning applications. The project demonstrates the use of neural networks, data preprocessing, model training, and evaluation techniques for solving AI-related problems.
 
 ## Features
-- Neural Network implementation
+- Neural network implementation
 - Deep learning model training
 - Image classification
-- Data preprocessing
+- Data preprocessing and augmentation
 - Model evaluation and prediction
 - Performance visualization
-- Experimentation with different architectures
+- TensorFlow and Keras integration
 
 ## Technologies Used
 - Python
 - TensorFlow
 - Keras
-- PyTorch
 - NumPy
 - Pandas
 - Matplotlib
@@ -27,8 +26,8 @@ This repository contains projects and implementations related to Deep Learning u
 Clone the repository:
 
 ```bash
-git clone https://github.com/DrushtiLadhani/Deep-Learning.git
-cd Deep-Learning
+git clone https://github.com/DrushtiLadhani/TensorFlow.git
+cd TensorFlow
 ```
 
 Install dependencies:
@@ -54,16 +53,16 @@ python main.py
 ## Project Workflow
 1. Data Collection
 2. Data Preprocessing
-3. Model Building
-4. Model Training
-5. Evaluation and Testing
+3. Model Development
+4. Training and Validation
+5. Performance Evaluation
 6. Prediction and Analysis
 
 ## Future Improvements
-- Implement advanced architectures such as CNNs, RNNs, and Transformers
-- Improve model accuracy and optimization
-- Deploy models using Flask or Streamlit
-- Add real-world datasets and applications
+- Implement advanced deep learning architectures
+- Improve model performance and optimization
+- Add real-world datasets
+- Deploy models as web applications
 
 ## Author
 Drushti Ladhani  
